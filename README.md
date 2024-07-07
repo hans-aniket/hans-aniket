@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hans-aniket
+- 👋 Hi, I’m Aniket
 -  I’m interested in Web development
 -  I’m currently learning Javascript
   
