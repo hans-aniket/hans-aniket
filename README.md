@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Aniket
 -  I’m interested in Web development
 -  I’m currently learning Javascript
+-  My goal is to be a full stack developer
   
 
 <!---
